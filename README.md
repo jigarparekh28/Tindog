@@ -1,4 +1,4 @@
-# TinDog: A responsive webpage
+# TinDog: A Responsive Webpage
 
 ![tindog-img](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/service-dog_1f415-200d-1f9ba.png)
 ## About The Project
